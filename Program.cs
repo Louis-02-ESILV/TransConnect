@@ -12,7 +12,5 @@ namespace TransConnect
             Console.SetWindowSize(90, 30);
             UI data = new UI("./Data/Db_Employes.json", "./Data/Db_Clients.json", "./Data/Db_Flotte.json", "./Data/Distances.csv");
         }
-            
-
     }
 }

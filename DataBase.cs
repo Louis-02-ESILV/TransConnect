@@ -9,7 +9,6 @@ using TransConnect.Personne;
 using TransConnect.Personne.Client;
 using TransConnect.Véhicule;
 
-[assembly: InternalsVisibleTo("TransConnectTest")]
 namespace TransConnect
 {
     internal class DataBase
